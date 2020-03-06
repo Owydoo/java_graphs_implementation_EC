@@ -1,2 +1,2 @@
-module java_graphs_implementation_EC {
+module java_graphs_implementation_EC { 
 }
